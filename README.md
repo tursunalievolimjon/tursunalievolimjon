@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tursunalievolimjon
+- 👋 Hi, I’m Olimjon Tursunaliev
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
